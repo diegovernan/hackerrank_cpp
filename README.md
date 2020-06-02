@@ -1,22 +1,24 @@
-# C++ - HackerRank
+# HackerRank - C++
 
-- 1.cpp - Say "Hello, World!" With C++
+Introduction
 
-- 2.cpp - Input and Output
+- 01.cpp - Say "Hello, World!" With C++
 
-- 3.cpp - Basic Data Types
+- 02.cpp - Input and Output
 
-- 4.cpp - Conditional Statements
+- 03.cpp - Basic Data Types
 
-- 5.cpp - For Loop
+- 04.cpp - Conditional Statements
 
-- 6.cpp - Functions
+- 05.cpp - For Loop
 
-- 7.cpp - Pointer
+- 06.cpp - Functions
+
+- 07.cpp - Pointer
 
 ### Compilar e rodar (linux)
 
-Na pasta raíz do projeto:
+Na pasta raiz do projeto:
 
 ```bash
 $ g++ NomeDoPrograma.cpp -o NomeDoPrograma
