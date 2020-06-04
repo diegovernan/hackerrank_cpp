@@ -16,6 +16,10 @@ Introduction
 
 - 07.cpp - Pointer
 
+- 08.cpp - Arrays Introduction
+
+- 09.cpp - Variable Sized Arrays
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
