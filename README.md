@@ -20,6 +20,14 @@ Introduction
 
 - 09.cpp - Variable Sized Arrays
 
+Strings
+
+- 10.cpp - Attribute Parser
+
+- 11.cpp - StringStream
+
+- 12.cpp - Strings
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
