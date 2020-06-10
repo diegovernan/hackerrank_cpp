@@ -22,7 +22,7 @@ Introduction
 
 Strings
 
-- 10.cpp - Attribute Parser
+- 10.cpp - Attribute Parser (em andamento)
 
 - 11.cpp - StringStream
 
