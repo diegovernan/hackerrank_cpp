@@ -28,6 +28,12 @@ Strings
 
 - 12.cpp - Strings
 
+Classes
+
+- 13.cpp - Structs
+
+- 14.cpp - Class
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
