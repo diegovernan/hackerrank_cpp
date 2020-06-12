@@ -34,6 +34,8 @@ Classes
 
 - 14.cpp - Class
 
+- 15.cpp - Classes and Objects
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
