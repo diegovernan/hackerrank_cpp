@@ -38,6 +38,14 @@ Classes
 
 - 16.cpp - Box It!
 
+- 17.cpp - Inherited Code
+
+- 18.cpp - Exceptional Server
+
+- 19.cpp - Virtual Functions
+
+- 20.cpp - Abstract Classes - Polymorphism
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
