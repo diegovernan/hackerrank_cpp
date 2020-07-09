@@ -22,7 +22,7 @@ Introduction
 
 Strings
 
-- 10.cpp - Attribute Parser (em andamento)
+- 10.cpp - Attribute Parser
 
 - 11.cpp - StringStream
 
@@ -35,6 +35,8 @@ Classes
 - 14.cpp - Class
 
 - 15.cpp - Classes and Objects
+
+- 16.cpp - Box It!
 
 ### Compilar e rodar (linux)
 
