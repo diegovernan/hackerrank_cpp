@@ -50,6 +50,10 @@ STL
 
 - 21.cpp - Vector-Sort
 
+- 22.cpp - Vector-Erase
+
+- 23.cpp - Lower Bound-STL
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
