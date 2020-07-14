@@ -58,6 +58,10 @@ STL
 
 - 25.cpp - Maps-STL
 
+- 26.cpp - Print Pretty
+
+- 27.cpp - Deque-STL
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
