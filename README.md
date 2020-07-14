@@ -54,6 +54,10 @@ STL
 
 - 23.cpp - Lower Bound-STL
 
+- 24.cpp - Sets-STL
+
+- 25.cpp - Maps-STL
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
