@@ -68,6 +68,10 @@ Inheritance
 
 - 29.cpp - Rectangle Area
 
+- 30.cpp - Multi Level Inheritance
+
+- 31.cpp - Accessing Inherited Functions
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
