@@ -78,6 +78,8 @@ Debugging
 
 - 33.cpp - Hotel Prices
 
+- 34.cpp - Cpp exception handling
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
