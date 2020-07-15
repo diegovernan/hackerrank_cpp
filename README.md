@@ -82,6 +82,8 @@ Debugging
 
 - 35.cpp - Overloading Ostream Operator
 
+- 36.cpp - Messages Order
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
