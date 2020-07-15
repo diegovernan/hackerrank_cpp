@@ -62,6 +62,12 @@ STL
 
 - 27.cpp - Deque-STL
 
+Inheritance
+
+- 28.cpp - Inheritance Introduction
+
+- 29.cpp - Rectangle Area
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
