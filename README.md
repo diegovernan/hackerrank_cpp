@@ -74,6 +74,10 @@ Inheritance
 
 - 32.cpp - Magic Spells
 
+Debugging
+
+- 33.cpp - Hotel Prices
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
