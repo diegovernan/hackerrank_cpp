@@ -80,6 +80,8 @@ Debugging
 
 - 34.cpp - Cpp exception handling
 
+- 35.cpp - Overloading Ostream Operator
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
