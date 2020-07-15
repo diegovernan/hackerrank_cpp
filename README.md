@@ -72,6 +72,8 @@ Inheritance
 
 - 31.cpp - Accessing Inherited Functions
 
+- 32.cpp - Magic Spells
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
