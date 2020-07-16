@@ -96,6 +96,8 @@ Other Concepts
 
 - 41.cpp - Attending Workshops
 
+- 42.cpp - C++ Class Template Specialization
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
