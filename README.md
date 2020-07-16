@@ -90,7 +90,11 @@ Other Concepts
 
 - 38.cpp - Preprocessor Solution
 
--39.cpp - Operator Overloading
+- 39.cpp - Operator Overloading
+
+- 40.cpp - Overload Operators
+
+- 41.cpp - Attending Workshops
 
 ### Compilar e rodar (linux)
 
