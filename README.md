@@ -98,6 +98,8 @@ Other Concepts
 
 - 42.cpp - C++ Class Template Specialization
 
+- 43.cpp - C++ Variadics
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
