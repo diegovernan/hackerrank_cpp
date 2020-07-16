@@ -84,6 +84,10 @@ Debugging
 
 - 36.cpp - Messages Order
 
+Other Concepts
+
+- 37.cpp - C++ Class Templates
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
