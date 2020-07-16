@@ -100,6 +100,8 @@ Other Concepts
 
 - 43.cpp - C++ Variadics
 
+- 44.cpp - Bit Array
+
 ### Compilar e rodar (linux)
 
 Na pasta raiz do projeto:
